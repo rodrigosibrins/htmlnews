@@ -1,5 +1,16 @@
-#Description
-Solution to the challenge number 06.
+# Description
 
-#Original New URL
+**Version 2.0.0**
+
+Solution to the challenges number 06 and 07.
+
+---
+
+## Developer
+
+- Rodrigo Gonzalez Sibrins  <rodrigosib2017@gmail.com>
+
+---
+
+# Original News URL
 https://www.ign.com/articles/amazon-secret-home-robot-size-of-two-small-cats-reportedly-in-development

@@ -117,10 +117,24 @@ h2{
     border-bottom: 1px solid #bf1313;
 }
 
-.author-info p a{
+.author-info p{
     font-style: italic;
+}
+
+.author-info p a{
     text-underline-position: under;
     color: #4062bb;
+}
+
+.link-tonews{
+    margin: 30px 0px;
+    padding: 25px 30px;
+    border: none;
+    text-align: center;
+    text-decoration: none;
+    font-size: 18px;
+    background-color: #4062bb;
+    color: white; 
 }
 
 

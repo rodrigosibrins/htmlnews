@@ -1,7 +1,8 @@
-# HTMLNEWS
+# HTMLNEWS 
 
 **Version 2.0.0**
 
+index.html
 Solution to the challenges number 06 and 07.
 
 ---
@@ -16,6 +17,7 @@ https://www.ign.com/articles/amazon-secret-home-robot-size-of-two-small-cats-rep
 
 **Version 1.0.0**
 
+second.html
 Solution to the challenge number 07.
 
 ## Original News URL

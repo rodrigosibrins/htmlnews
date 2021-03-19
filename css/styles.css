@@ -137,4 +137,29 @@ h2{
     color: white; 
 }
 
+/*Styles needed for the old news*/
+.image-container img, 
+.little-images img{
+    border-radius: 5px;
+}
+
+.image-container img:hover, 
+.little-images img:hover{
+    cursor: pointer;
+    opacity: .8;
+}
+
+.image-container img{
+    width: 780px;
+    height: 440px;
+}
+
+.little-images{
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 20px;
+}
+
+
+
 

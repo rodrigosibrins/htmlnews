@@ -12,7 +12,7 @@ https://www.ign.com/articles/amazon-secret-home-robot-size-of-two-small-cats-rep
 
 ---
 
-# SECONDNEWS
+# SECOND
 
 **Version 1.0.0**
 
@@ -20,7 +20,7 @@ Solution to the challenge number 07.
 
 ## Original News URL
 
-https://www.washingtonpost.com/technology/2021/03/15/technoking-elon-musk-tesla/
+https://www.ign.com/articles/elon-musk-has-officially-retitled-himself-as-technoking-of-tesla
 
 ---
 
